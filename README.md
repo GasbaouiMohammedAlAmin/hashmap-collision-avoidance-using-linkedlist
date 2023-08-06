@@ -11,3 +11,5 @@ in this project, we create all required methods to implement this data structure
 - print the whole table.
 - checking if an object exists in the table.
 - getting the number of empty slot.
+
+  ![](capt1.JPG)
