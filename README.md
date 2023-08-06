@@ -29,4 +29,4 @@ in this project, we create all required methods to implement this data structure
 - Time complexity to delete an object in worst cases is O(n) (length of the linked list) because we need to find the pair object before deleting.
 
 # video explanation
-
+https://www.youtube.com/watch?v=is_k1gfPqmQ
